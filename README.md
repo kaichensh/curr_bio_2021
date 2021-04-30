@@ -1,4 +1,4 @@
-# curr_bio
+# curr_bio_2021
 Notebooks used for neural networks in Current Biology publication: Neurally driven synthesis of learned, complex vocalizations
 
 All preprocessing functions are stored in spec_processing.py
